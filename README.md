@@ -25,14 +25,14 @@ I am a Web Developer and Competitive Programmer. I am final year student current
 <a href="mailto:dj12@iitbbs.ac.in"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=divesh8055&show_icons=true&hide_border=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=divesh8055&show_icons=true&hide_border=true&theme=merko" />
 </a>
 
 
 <!-- <img align="right" height="185" width="296" alt="GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" /> -->
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divesh8055" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divesh8055&theme=merko" />
 </a>
 
 
