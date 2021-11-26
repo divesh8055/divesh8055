@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # I'm Divesh Jain
-I am a Web Developer and Competitive Programmer. I am a final year student currently pursuing B Tech.+ M.Tech(Intd.) from Indian Institute of Technology, Bhubaneswar. My areas of interest are Web Development, Problem Solving, Artificial Intelligence and Machine Learning. I am currently working with C++, Python, JavaScript and MERN (MongoDB, Express, ReactJs, Node.Js) stack. I have a strong foundation of Data Structures, Algorithms and Computer Science Fundamentals.
+I am a Web Developer and Competitive Programmer. I am a final year student currently pursuing B Tech.+ M.Tech(Intd.) from Indian Institute of Technology, Bhubaneswar. My areas of interest lies in Web Development, Problem Solving, Artificial Intelligence and Machine Learning. I am currently working with C++, Python, JavaScript and MERN (MongoDB, Express, ReactJs, Node.Js) stack. I have a strong foundation of Data Structures, Algorithms and Computer Science Fundamentals.
 
 
 ## Connect with me :smile:
